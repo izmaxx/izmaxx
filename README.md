@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I'm addicted to learning new things: web development, DevOps, Python for stock market research.
-👯 Let me know if you want to collaborate on something.  Trying to up my Angular and Python game at the moment.
+- 🌱 I'm addicted to learning new things: web development, DevOps, Python for stock market research.
+- 👯 Let me know if you want to collaborate on something.  Trying to up my Angular and Python game at the moment.
 
 <!--
 **izmaxx/izmaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
